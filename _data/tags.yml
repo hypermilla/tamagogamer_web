@@ -1,0 +1,13 @@
+nintendo-switch:
+  name: Nintendo Switch
+  description: About the Nintendo Switch game console.
+  cover: False
+3ds:
+  name: Nintendo 3DS
+  description: About the Nintendo 3DS gaming handheld.
+  cover: False
+gba:
+  name: Game Boy Advance
+  description: About the game boy advance.
+  cover: False
+
