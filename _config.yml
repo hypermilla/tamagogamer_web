@@ -29,7 +29,7 @@ facebook: # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: hypermilla # replace with your disqus username
+disqus_shortname:  # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-141746315-1  # replace with your GA tracking identifier
@@ -74,7 +74,7 @@ repo: tamagogamer_web
 branch: master
 relative_source: _site/
 destination: _site/
-production_url:  https://tamagogamer.com/jekyll_test/
+production_url:  https://tamagogamer.com/
 source_url:  https://github.com/hypermilla/tamagogamer_web/
 
 exclude:

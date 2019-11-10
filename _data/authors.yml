@@ -1,10 +1,9 @@
 hypermilla:
   username: hypermilla
-  name: Hypermilla
+  name: Milla Slot
   url_full: http://hypermilla.com
   url: hypermilla.com
-  bio: Digital creator, game dev, handheld and Nintendo lover
-  picture: ../../assets/images/milla.jpg
-  facebook: hypermilla
+  bio: I'm a digital designer, game developer and Web enthusiast. I've been love with Nintendo handhelds since I played a Game Boy in 1999. I own a collection of gaming handhelds and much more 3DS than I need. I write all the cool things you can do in the world of portable gaming. 
+  picture: ../../assets/images/hypermilla.jpg
   twitter: hypermilla
-  cover: ../../assets/images/milla_cover.jpg
+  cover: ../../assets/images/blog-cover.jpg

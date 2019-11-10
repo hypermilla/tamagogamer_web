@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/collection_cover.jpg'
 comments: false
 class: post-template
-title: Physical or Digital What is the best for your 3DS games?
+title: Physical or Digital? What is the best for your 3DS games?
 date: 2019-06-10 02:13
 author: hypermilla
 categories: [buying guide, digital, Nintendo 3DS, nintendo 3ds, physical]

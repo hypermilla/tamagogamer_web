@@ -52,6 +52,8 @@
         "posts_per_page": 25
     },
     "dependencies": {
-        "braces": "^3.0.2"
+        "braces": "^3.0.2",
+        "yarn": "^1.19.1",
+        "yarn-install": "^1.0.0"
     }
 }

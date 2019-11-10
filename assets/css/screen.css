@@ -468,7 +468,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     font-size: 1.3rem;
     font-weight: 500;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 .reading-time {

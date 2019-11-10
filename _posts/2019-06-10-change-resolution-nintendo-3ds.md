@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: '{{ site.baseurl }}/ds_cover.jpg'
+cover: 'assets/images/ds_cover.jpg'
 navigation: true
 title: How to change the game resolution on your 3DS
 date: 2019-06-10 00:30

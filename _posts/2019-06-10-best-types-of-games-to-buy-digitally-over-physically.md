@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-title: How to Decide Best types of games to buy Digitally over Physically
+title: How to Decide? The Best types of games to buy Digitally over Physically
 cover: 'assets/images/splatoon_cover.jpg'
 date: 2019-06-10 02:28
 author: hypermilla
