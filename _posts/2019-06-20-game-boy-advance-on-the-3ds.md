@@ -11,7 +11,7 @@ comments: false
 categories: [Game Boy Advance, game boy advance, gba, Nintendo 3DS, virtual console]
 tags: gba
 ---
-<!-- wp:paragraph -->
+
 <p>To this day, there is no official <strong>Game Boy Advance Virtual Console</strong> on the <strong>Nintendo 3DS eShop</strong>, which is a huge disappointment to many fans.  When Nintendo released the 10 GBA games exclusive to their Nintendo 3DS Ambassador Program back in 2011, many hoped it would be the first step for a wide number of GBA titles to get over to the 3DS. That, however, never happened, and no other GBA game ever touched the 3DS.</p>
 <!-- /wp:paragraph -->
 
