@@ -53,7 +53,7 @@
     },
     "dependencies": {
         "braces": "^3.0.2",
-        "yarn": "^1.19.1",
+        "yarn": "^1.22.0",
         "yarn-install": "^1.0.0"
     }
 }
